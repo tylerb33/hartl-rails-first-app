@@ -1,25 +1,3 @@
-# README
+# Hartl Rails Book Tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# hartl-rails-first-app
+This is the first app built in the book, as I follow from front to back.
